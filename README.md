@@ -5,8 +5,6 @@ This project focuses on the analysis and visualization of airline flight operati
 
 Multiple data visualizations and dashboards were created to present insights on delay causes, airline and airport performance, route trends, and seasonal patterns. These visual outputs enable clear interpretation of complex data and support data-driven analysis.
 
-https://github.com/user-attachments/assets/35ee9d63-b978-451d-a10a-2b9490b7f1c0
-
 ## Dataset
 
 - Source: Kaggle
